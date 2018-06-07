@@ -12,7 +12,7 @@ Use git clone or just download the .zip package files, unzip at the addons direc
  
 # Compatibility
 
-This module is compatible with 11c. It's currently fully tested on 11c,11e.
+This module is compatible with 9e, 9c, 10e, 10c. It's currently fully tested on 10c, 10e.
 
 Please help us test it for other versions by pulling the code.
 
